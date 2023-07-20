@@ -1,1 +1,1 @@
-# navya-deeps
+This project is a Carbon emission calculator that can calculate the carbon foootpront that various area suchas - households, industries, cities, towns etc based on the carbon burnng factor for different substances and fuels. 
